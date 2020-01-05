@@ -20,7 +20,7 @@ Import election and banking data into each individual application to process and
 ## Analysis Results
 
 - ***Election Analysis***
-<a link="https://github.com/ktung1189/Analysis_Of_Election_Banking_Data/blob/master/Results/election_results.txt" alt='election_analysis'>
+<img src="https://github.com/ktung1189/Analysis_Of_Election_Banking_Data/blob/master/Results/election_results.txt" alt='election_analysis'>
 
 - ***Financial Analysis***
 <img src="https://github.com/ktung1189/Analysis_Of_Election_Banking_Data/blob/master/Results/Financial_Analysis.txt" alt='financial'>
